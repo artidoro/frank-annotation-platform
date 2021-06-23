@@ -1,0 +1,44 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+.relatedSentence {
+  /* background-color: rgb(218, 247, 166); */
+  text-decoration: underline;
+}
+
+.currentSentence {
+  font-weight: bold;
+  background-color: yellow;
+}
+
+.entity {
+  background-color: yellow;
+}
+.correct {
+  color: green;
+  font-weight: bold;
+}
+.wrong {
+  color: red;
+  font-weight: bold;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.instructionCard {
+  /* background-color: */
+  background:  lightcyan!important;
+}
