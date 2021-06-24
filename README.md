@@ -2,6 +2,10 @@
 Annotation platform for Amazon Mechanical Turk using external question. 
 The annotation task and dataset are described in [our NAACL'21 paper](https://www.aclweb.org/anthology/2021.naacl-main.383/). The dataset resulting from the annotation is available at: https://github.com/artidoro/frank. If you have any questions about using this human annotation tool feel free to open an issue or contact me.
 
+Interface Preview 1    |    
+-------------------------|-------------------------
+![](img/interface3.png) | ![](img/interface4.png)
+
 ## Citation
 ```
 @inproceedings{pagnoni-etal-2021-understanding,
